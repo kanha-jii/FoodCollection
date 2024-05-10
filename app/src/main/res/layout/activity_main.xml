@@ -35,11 +35,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintTop_toBottomOf="@+id/logo_img"
-        android:layout_marginTop="10dp"
         android:hint="First Name"
         android:textColorHint="@color/black"
-        android:padding="20dp"
-        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:layout_margin="7dp"
         />
 
 
@@ -51,8 +50,8 @@
         android:layout_marginTop="10dp"
         android:hint="Last Name"
         android:textColorHint="@color/black"
-        android:padding="20dp"
-        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:layout_margin="7dp"
         />
     <EditText
         android:id="@+id/et_3"
@@ -62,8 +61,8 @@
         android:layout_marginTop="10dp"
         android:hint="Email"
         android:textColorHint="@color/black"
-        android:padding="20dp"
-        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:layout_margin="7dp"
         />
     <EditText
         android:id="@+id/et_4"
@@ -73,8 +72,8 @@
         android:layout_marginTop="10dp"
         android:hint="Address"
         android:textColorHint="@color/black"
-        android:padding="20dp"
-        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:layout_margin="7dp"
         />
 
     <EditText
@@ -85,8 +84,8 @@
         android:layout_marginTop="10dp"
         android:hint="Pincode"
         android:textColorHint="@color/black"
-        android:padding="20dp"
-        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:layout_margin="7dp"
         />
 
     <EditText
@@ -97,8 +96,8 @@
         android:layout_marginTop="10dp"
         android:hint="Password"
         android:textColorHint="@color/black"
-        android:padding="20dp"
-        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:layout_margin="7dp"
         />
 
     <EditText
@@ -109,8 +108,8 @@
         android:layout_marginTop="10dp"
         android:hint="Confirm Password"
         android:textColorHint="@color/black"
-        android:padding="20dp"
-        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:layout_margin="7dp"
         />
 
     <Button
